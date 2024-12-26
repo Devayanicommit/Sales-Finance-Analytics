@@ -59,9 +59,7 @@ Focus Areas:
 - Outcome: Delivered in-depth financial analysis, guiding effective budget allocation and financial planning.
 
 
-✅ **Customer Net Sales Performance Report**
-   - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
- https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf  
+ 
      
 ✅ **Market Performance vs. Sales Targets Comparison**
    - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
@@ -85,9 +83,18 @@ Tools Used: Excel (Pivot Tables)
 - Outcome: Produced visually appealing and informative reports that effectively communicated insights.
 
 ## Overall Insights
-- **Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
+ 1.Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
+  - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+ https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
+
+2.- **Market Performance vs. Target**: Insights into market performance relative to sales goals.
+     - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Performance%20Report.pdf
+
 - **Top 10 Products**: Continued strong performance of key products from 2020 to 2021.
-- **Market Performance vs. Target**: Insights into market performance relative to sales goals.
+  
+
+
 - **New Products in 2021**: Successful introduction of new products with strong sales.
 - **Top 5 Countries in 2021**: Identification of leading markets with robust sales figures.
 - **Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
