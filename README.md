@@ -61,12 +61,11 @@ Focus Areas:
 
 ✅ **Customer Net Sales Performance Report**
    - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
-    
  https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf  
      
 ✅ **Market Performance vs. Sales Targets Comparison**
    - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
-
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Performance%20Report.pdf
 
 ✅ **Yearly Profit and Loss (P&L) Report**
    - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
