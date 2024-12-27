@@ -96,12 +96,13 @@ https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Division%20L
  - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf
 
-#### 7) Gross Margin % by Quarter: 
+#### 8) Gross Margin % by Quarter: 
  -Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
  https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf
  
-#### 8)Profit and Loss (P&L) By Fiscal Year:
+#### 9)Profit and Loss (P&L) By Fiscal Year:
  - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/P%20%26%20L%20for%20fiscal%20years.pdf
 
 
 
