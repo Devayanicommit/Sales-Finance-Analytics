@@ -66,26 +66,31 @@ Tools Used: Excel (Pivot Tables)
 
 ## Overall Insights
 
-1. Customer Sales Performance: Notable growth in sales, especially in 2021 with a 304% increase.
-     - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+#### 1) Customer Sales Performance:
+ - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
  https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
 
-2. Market Performance vs. Target: Insights into market performance relative to sales goals.
-     - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+#### 2) Market Performance vs. Target: 
+ - Insights:Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
   https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Performance%20Report.pdf
 
-3. Top 10 Products: Continued strong performance of key products from 2020 to 2021.
-     - https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
+#### 3) Top 10 Products: 
+   - Insights:  Continued strong performance of key products from 2020 to 2021.
+       
+   https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
 
-4.New Products in 2021: Successful introduction of new products with strong sales.
-     -https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/New%20Products%20-2021.pdf
+#### 4) New Products in 2021:
+   - Insights: Successful introduction of new products with strong sales.
+     
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/New%20Products%20-2021.pdf
 
-5.Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
-     - https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%205%20and%20Bottom%20products.pdf
+#### 5) Top and Bottom 5 Products: 
+   - Insights: Focus on both high-performing and underperforming products for strategic adjustments.
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%205%20and%20Bottom%20products.pdf
  
-6.Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
+#### 6) Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
 
-7.Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.
+#### 5) Profit and Loss Reports by Markets**: 
  - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 
 8.Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making.
