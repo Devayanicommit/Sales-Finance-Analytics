@@ -76,9 +76,8 @@ Tools Used: Excel (Pivot Tables)
 
 #### 3) Top 10 Products: 
    - Insights:  Continued strong performance of key products from 2020 to 2021.
-       
-   https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
-
+     
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
 #### 4) New Products in 2021:
    - Insights: Successful introduction of new products with strong sales.
      
@@ -88,7 +87,10 @@ https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/New%20Produc
    - Insights: Focus on both high-performing and underperforming products for strategic adjustments.
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%205%20and%20Bottom%20products.pdf
  
-#### 6) Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
+#### 6) Division Level Report**: 
+   - Insights: Impressive growth in the PC division, with substantial revenue increases.
+     
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Division%20Level%20Report.pdf
 
 #### 5) Profit and Loss Reports by Markets**: 
  - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
