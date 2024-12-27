@@ -77,7 +77,7 @@ https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Per
   https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
 
 4.New Products in 2021: Successful introduction of new products with strong sales.
-
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/New%20Products%20-2021.pdf
 
 5.Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
   
