@@ -87,22 +87,21 @@ https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/New%20Produc
    - Insights: Focus on both high-performing and underperforming products for strategic adjustments.
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%205%20and%20Bottom%20products.pdf
  
-#### 6) Division Level Report**: 
+#### 6) Division Level Report: 
    - Insights: Impressive growth in the PC division, with substantial revenue increases.
      
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Division%20Level%20Report.pdf
 
-#### 7) Profit and Loss Reports by Markets**: 
+#### 7) Profit and Loss Reports by Markets: 
  - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf
 
-#### 7) Gross Margin % by Quarter**: 
+#### 7) Gross Margin % by Quarter: 
  -Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+ https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf
  
-  - Insights: 
-  - 
-9.Profit and Loss (P&L) By Fiscal Year:
-   - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+#### 8)Profit and Loss (P&L) By Fiscal Year:
+ - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 
 
 
