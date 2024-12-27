@@ -21,27 +21,17 @@ Tool Used: Power Pivot in Excel
 - Outcome: Built dynamic data models that facilitated multi-faceted analysis and enhanced reporting capabilities.
 
 
-### 3.Sales Analysis Reports
+#### 3. Sales Analytics:
 Focus Areas:
 - Customer Performance Analysis: Overview of revenue generated from customers also identified high-value customers and patterns in purchasing behavior.
 - Market Analysis: Evaluated market trends and competition to refine sales strategies.
 - Outcome: Provided actionable insights that informed strategic decisions, ultimately driving sales growth.
 
-✅ **Top 10 Products with Sales Increase**
-   - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 
-✅ **Division Sales Report**
-   - Insights: 
-     - PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
-     - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
-     - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 
-✅ **Top and Bottom 5 Sold Products**
-   - **Top 5 Products by Quantity**: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
-   - **Bottom 5 Products by Quantity**: Insights into underperforming products and considerations for adjustments.
 
-✅ **New Products in 2021**
-   - Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
+
+
 
 ✅ **Top 5 Sales Countries in 2021**
    - Insights: 
@@ -75,20 +65,26 @@ Tools Used: Excel (Pivot Tables)
   https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Performance%20Report.pdf
 
 #### 3) Top 10 Products: 
-   - Insights:  Continued strong performance of key products from 2020 to 2021.
+   - Insights:  Continued strong performance of key products from 2020 to 2021.The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
      
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
 #### 4) New Products in 2021:
-   - Insights: Successful introduction of new products with strong sales.
+   - Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
      
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/New%20Products%20-2021.pdf
 
 #### 5) Top and Bottom 5 Products: 
    - Insights: Focus on both high-performing and underperforming products for strategic adjustments.
+   - **Bottom 5 Products by Quantity**: Insights into underperforming products and considerations for adjustments.
+   - **Top 5 Products by Quantity**: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
+
+
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%205%20and%20Bottom%20products.pdf
  
-#### 6) Division Level Report: 
-   - Insights: Impressive growth in the PC division, with substantial revenue increases.
+#### 6) Division Sales Report: 
+   - Insights: Impressive growth in the PC division, with substantial revenue increases from $40.1 million in 2020 to $165.8 million in 2021.
+   - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
+   - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
      
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Division%20Level%20Report.pdf
 
