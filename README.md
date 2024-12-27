@@ -26,29 +26,14 @@ Focus Areas:
 - Customer Performance Analysis: Overview of revenue generated from customers also identified high-value customers and patterns in purchasing behavior.
 - Market Analysis: Evaluated market trends and competition to refine sales strategies.
 - Outcome: Provided actionable insights that informed strategic decisions, ultimately driving sales growth.
-
-
-
-
-
-
-
-✅ **Top 5 Sales Countries in 2021**
-   - Insights: 
-     - India led with $161.3 million in sales.
-     - Strong sales also noted in the USA, South Korea, the UK, and Canada.
-
+ 
+     
 ### 4.Finance Analytics Reports:
 Focus Areas:
 - P&L Statements: Analyzed revenue streams and cost structures to understand profitability.
 - Profit and Loss Dynamics: Explored factors influencing financial performance and sustainability.
--Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fiscal year.
--Quarterly Profit and Loss (P&L) Comparison: Financial performance trends throughout the year.
--Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each market.
--Quarterly Gross Margin Percentage (GM%) by Location**: Profitability view by geographic area.
 - Outcome: Delivered in-depth financial analysis, guiding effective budget allocation and financial planning.
-
-     
+-    
 #### 5. Data Visualization and Reporting:
 Tools Used: Excel (Pivot Tables)
 - Design Approach: Reports were designed with a focus on user empathy, ensuring they were intuitive and catered to the needs of decision-makers.
@@ -65,27 +50,25 @@ Tools Used: Excel (Pivot Tables)
   https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Performance%20Report.pdf
 
 #### 3) Top 10 Products: 
-   - Insights:  Continued strong performance of key products from 2020 to 2021.The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
-     
+   - Insights:  Continued strong performance of key products from 2020 to 2021.
+   - The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".      
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
+
 #### 4) New Products in 2021:
-   - Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
-     
+   - Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.    
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/New%20Products%20-2021.pdf
 
 #### 5) Top and Bottom 5 Products: 
    - Insights: Focus on both high-performing and underperforming products for strategic adjustments.
    - **Bottom 5 Products by Quantity**: Insights into underperforming products and considerations for adjustments.
    - **Top 5 Products by Quantity**: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
-
-
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%205%20and%20Bottom%20products.pdf
  
 #### 6) Division Sales Report: 
    - Insights: Impressive growth in the PC division, with substantial revenue increases from $40.1 million in 2020 to $165.8 million in 2021.
    - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
    - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
-     
+
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Division%20Level%20Report.pdf
 
 #### 7) Profit and Loss Reports by Markets: 
@@ -93,13 +76,18 @@ https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Division%20L
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf
 
 #### 8) Gross Margin % by Quarter: 
- -Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+ - Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
  https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf
  
-#### 9)Profit and Loss (P&L) By Fiscal Year:
+#### 9) Profit and Loss (P&L) By Fiscal Year:
  - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/P%20%26%20L%20for%20fiscal%20years.pdf
 
+#### 10) Top 5 Sales Countries in 2021:
+ - Insights: India led with $161.3 million in sales.
+ - Strong sales also noted in the USA, South Korea, the UK, and Canada.
+    
+https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%205%20Country.pdf
 
 
 ### Key takeaways:
