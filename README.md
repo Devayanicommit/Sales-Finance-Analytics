@@ -58,24 +58,6 @@ Focus Areas:
 -Quarterly Gross Margin Percentage (GM%) by Location**: Profitability view by geographic area.
 - Outcome: Delivered in-depth financial analysis, guiding effective budget allocation and financial planning.
 
-
- 
-     
-✅ **Market Performance vs. Sales Targets Comparison**
-   - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
-https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Performance%20Report.pdf
-
-✅ **Yearly Profit and Loss (P&L) Report**
-   - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
-
-✅ **Quarterly Profit and Loss (P&L) Comparison**
-   - Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
-
-✅ **Market-Specific Profit and Loss (P&L) Report**
-   - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
-
-✅ **Quarterly Gross Margin Percentage (GM%) by Location**
-   - Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
      
 #### 5. Data Visualization and Reporting:
 Tools Used: Excel (Pivot Tables)
@@ -87,21 +69,29 @@ Tools Used: Excel (Pivot Tables)
   - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
  https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
 
-2.- **Market Performance vs. Target**: Insights into market performance relative to sales goals.
+2. Market Performance vs. Target: Insights into market performance relative to sales goals.
      - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
 https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Market%20Performance%20Report.pdf
 
-- **Top 10 Products**: Continued strong performance of key products from 2020 to 2021.
+3. Top 10 Products: Continued strong performance of key products from 2020 to 2021.
+  https://github.com/Devayanicommit/Sales-Finance-Analytics/blob/main/Top%2010%20Products.pdf
+
+4.New Products in 2021: Successful introduction of new products with strong sales.
+
+
+5.Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
   
+6.Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
 
+7.Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.
+ - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 
-- **New Products in 2021**: Successful introduction of new products with strong sales.
-- **Top 5 Countries in 2021**: Identification of leading markets with robust sales figures.
-- **Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
-- **Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
-- **Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.
-- **Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.
-- **Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making.
+8.Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making.
+  - Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+  - 
+9.Profit and Loss (P&L) By Fiscal Year:
+   - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+
 
 
 ### Key takeaways:
